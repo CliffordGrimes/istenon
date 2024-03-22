@@ -1,0 +1,46 @@
+{
+  "name": "istenon",
+  "version": "1.0.0",
+  "description": "Solidity Documentation Generator",
+  "main": "cli.js",
+  "bin": {
+    "solidoc": "cli.js"
+  },
+  "keywords": [
+    "voluptatem",
+    "fuga",
+    "qui",
+    "documentation-tool",
+    "blanditiis",
+    "markdown",
+    "ethereum",
+    "eth",
+    "qui",
+    "recusandae",
+    "tron",
+    "qui",
+    "nulla",
+    "porro",
+    "eum",
+    "aeternity",
+    "counterparty",
+    "rootstock",
+    "ubiq",
+    "monax"
+  ],
+  "author": "AnnettaLehner",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CliffordGrimes/istenon.git"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "glob": "^7.1.3",
+    "linq": "^3.1.0",
+    "pino": "^5.8.0",
+    "pino-pretty": "^2.2.2",
+    "require-all": "^3.0.0"
+  },
+  "devDependencies": {}
+}
